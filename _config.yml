@@ -1,0 +1,13 @@
+title : Hack Weekends Guide
+
+safe: true
+lsi: false
+pygments: true
+auto: true
+
+source: hack-weekends-guide
+destination: hack-weekends-guide
+
+production_url : http://kinlane.github.io/hack-weekends-guide/
+
+BASE_PATH : http://kinlane.github.io/hack-weekends-guide/
